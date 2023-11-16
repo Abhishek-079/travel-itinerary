@@ -1,0 +1,131 @@
+nav{
+    background-color: #102036;
+    height: 150px;
+}
+
+.logo{
+    width: 270px;
+    height: 50px;
+ padding-left: 40px;
+
+}
+.profile{
+    
+   height: 20px;
+   width: 20px;
+   margin-right: 40px;
+}
+   
+
+
+.hotels1{
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 50px;
+
+}
+.hotels2{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+h1{
+    font-family: inter,sans-serif;
+    padding-left:  50px;
+    padding-top: 30px;
+   
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin-inline: 60px;
+    margin-bottom: 20px;
+}
+.search{
+  
+    border-radius: 100px;
+    height: 40px;
+    width: 200px;
+    margin-top: 30px;
+    margin-right: 40px;
+    padding-right: 0px;
+  
+}
+#search{
+    padding-left: 10px;
+    padding-bottom: 5px;
+    
+}
+
+.rate{
+    padding-top: 0px;
+}
+
+.card{
+height: 300px;
+}
+
+.card-text{
+   margin: 0px;
+
+}
+.card-infoset{
+    margin: 0px;
+    font-size: medium;
+    
+} 
+h5{
+    height: 20px;
+}
+
+.cardinfo{
+display: flex;
+justify-content: space-between;
+margin: 0px;
+font-family: inter,sans-serif;
+
+
+}
+
+.allhotels{
+    margin-bottom: 40px;
+    font-family: inter;
+}
+.tikbox{
+    float: right;
+}
+#flexCheckIndeterminate{
+    border-color: #828282;
+}
+.card-body{
+   
+    border-bottom-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+}
+.hotelname{
+   
+    font-size:18px ;
+   
+}
+.buttons{
+    display: flex;
+    justify-content: space-between;
+    margin-inline: 40px;
+    margin-bottom: 40px;
+    
+}
+.previous{
+    background-color: #102036;
+    color:#fff;
+    border-radius: 100px;
+    height: 50px;
+    width: 150px;
+}
+.next{
+    background-color: #102036;
+    color:#fff;
+    border-radius: 100px;
+    height: 50px;
+    width: 150px;
+}
